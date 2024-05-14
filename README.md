@@ -5,6 +5,8 @@ Conexão do ESP8266 com módulo RS485 para leitura dos registradores controlador
 
 ![image-20240228-183908](https://github.com/cainaalba/esp8266_rs485/assets/57020103/e3246b51-27d3-4ca6-8ad0-ccc72dae23c5)
 
+![image](https://github.com/cainaalba/esp8266_rs485/assets/57020103/12f9e2fa-b082-4839-b021-7b4de88d0bfb)
+
 # Componentes utilizados
 1. ESP8266, com WIFI, V3;
 2. Módulo leitor RS485;
